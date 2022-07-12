@@ -182,6 +182,7 @@ public class ResourceCentre {
 		
 	}	
 	public static void addChromebook(ArrayList<Chromebook> chromebookList, Chromebook cb) {
+		chromebookList.add(cb);
 		// write your code here
 	}
 	
